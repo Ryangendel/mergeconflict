@@ -1,2 +1,1 @@
-# mergeconflict I EDITED THIS FROM VSCODE
-another edit
+# mergeconflict THIS WAS EDITED FROM THE WEB
